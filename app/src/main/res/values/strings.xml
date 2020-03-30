@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Night</string>
+    <string name="BASE_URL">http://image.tmdb.org/t/p/</string>
+    <string name="IMAGE_SIZE_185">w185</string>
+    <string name="movie_poster_image">movie poster image</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="release">Release:</string>
+    <string name="rating">Rating:</string>
+</resources>

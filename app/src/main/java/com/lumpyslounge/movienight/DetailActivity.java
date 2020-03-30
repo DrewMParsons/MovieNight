@@ -47,7 +47,7 @@ public class DetailActivity extends AppCompatActivity
         textViewTitle.setText(title);
         textViewDate.setText(date);
         textViewOverview.setText(overview);
-        textViewRating.setText(rating);
+        textViewRating.setText(Integer.toString(rating));
 
     }
 }
